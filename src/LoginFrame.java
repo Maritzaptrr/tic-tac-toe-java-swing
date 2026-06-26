@@ -54,7 +54,6 @@ public class LoginFrame extends JFrame {
 
         add(panel);
 
-        // Event handler tombol Login
         btnLogin.addActionListener(new ActionListener() {
             public void actionPerformed(ActionEvent e) {
                 String username = txtUsername.getText().trim();
