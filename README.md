@@ -46,16 +46,16 @@ Database used: PostgreSQL
 - Top scorers windows
 <img width="1458" height="747" alt="top-5-window" src="https://github.com/user-attachments/assets/abf69eee-d778-4ee6-a7af-b9ef9408be30" />
 
--Exit Window
+- Exit Window
 <img width="990" height="855" alt="exit-window" src="https://github.com/user-attachments/assets/7ef3a6b8-4356-4f33-9143-ce74692faa4e" />
 
--Main menu window
+- Main menu window
 <img width="1005" height="864" alt="main-menu-window" src="https://github.com/user-attachments/assets/4eaf15ea-38f6-4b1f-919a-d4e936f52ce4" />
 
--Statistics window
+- Statistics window
 <img width="897" height="807" alt="statistics-window" src="https://github.com/user-attachments/assets/02af7800-672f-4896-ab49-fc798b9e1362" />
 
--Game window
+- Game window
 <img width="1152" height="1413" alt="game-window" src="https://github.com/user-attachments/assets/4e01b5dc-97a3-4225-a410-d76c269c2d00" />
 
 ## Video Link
