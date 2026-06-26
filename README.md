@@ -2,9 +2,9 @@
 tic-tac-toe game with java swing GUI, login, and statistics
 
 ## Student Information
-Name: Maritza Putri Evita
-Student ID: 5026251061
-Class: A
+- Name: Maritza Putri Evita
+- Student ID: 5026251061
+- Class: A
 
 ## Project Description
 This project is a simple Tic-Tac-Toe game built using Java Swing GUI. The player competes against a computer. The application includes login using a database, game statistics, personal statistics display, and Top 5 scorers feature.
