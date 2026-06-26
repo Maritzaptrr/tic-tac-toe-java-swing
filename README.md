@@ -59,4 +59,4 @@ Database used: PostgreSQL
 <img width="1152" height="1413" alt="game-window" src="https://github.com/user-attachments/assets/4e01b5dc-97a3-4225-a410-d76c269c2d00" />
 
 ## Video Link
-YouTube: 
+YouTube: https://youtu.be/F8j4j25q2R0
